@@ -130,7 +130,7 @@ h4 {
 
 .at-rate__icon {
   position: relative;
-  text-shadow: 2px 2px 6px #111;
+  text-shadow: 2px 6px 6px #111;
 }
 
 .at-rate__left {
